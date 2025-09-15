@@ -60,7 +60,7 @@ Built with flexibility, speed, and user trust in mind, JantaRide empowers users 
 **Created by**: Aditya Raj  
 🎓 Student @ Galgotias University  
 📧 Email: [adiraj1603@gmail.com](mailto:adiraj1603@gmail.com)  
-🔗 GitHub: [github.com/adiraj1603](https://github.com/adiraj1603)  
+🔗 GitHub: [https://github.com/Aditya121raj/](https://github.com/Aditya121raj/JantaRide)  
 🗓️ Copyright © 2025 JantaRide
 
 ---
